@@ -1,0 +1,2 @@
+hostname -i
+ifconfig
